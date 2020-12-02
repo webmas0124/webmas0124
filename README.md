@@ -1,4 +1,4 @@
-![alt text](https://github.com/webmas0124/webmas0124/blob/main/toronto.jpg?raw=true)
+![alt text](https://github.com/webmas0124/webmas0124/blob/main/banner.jpg?raw=true)
 
 ### Hi there 👋
 
