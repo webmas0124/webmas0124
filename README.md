@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Full Stack Engineer with more than 10 years of web development experience in building high-performance presentations, reusable components, and performance optimization with React, Vue, and Back End architecture interactions. Specialized in building beautiful, impactful, and purposeful user experience without sacrificing quality and performance using React, and Vue. Mainly focus on Front End Development but also available for Back End Development with Node and Django. Proficient in Git and familiar with Project Management via JIRA, Trello and communication platforms like Slack.
+Full Stack Engineer with more than 10 years of web development experience.
 
 Below I give some tags for the search engine and for those who prefer doing quick scanning.
 - HTML, CSS / SASS / SCSS, JavaScript / TypeScript, Bootstrap
