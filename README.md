@@ -6,7 +6,7 @@ Below I give some tags for the search engine and for those who prefer doing quic
 - HTML, CSS / SASS / SCSS, JavaScript / TypeScript, Bootstrap
 - React, Gatsby, Next, Styled-Components
 - Vue, Vuex, Vuetify, Nuxt
-- Redux
+- Redux, MobX
 - RESTful / GraphQL
 - Node / Express
 - Python / Django
