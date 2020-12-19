@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Full Stack Engineer with more than 10 years of web development experience.
+I am a Full Stack Engineer with more than 10 years of web development experience.
 
 Below I give some tags for the search engine and for those who prefer doing quick scanning.
 - HTML, CSS / SASS / SCSS, JavaScript / TypeScript, Bootstrap
